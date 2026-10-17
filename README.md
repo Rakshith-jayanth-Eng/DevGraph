@@ -65,8 +65,8 @@ devgraph/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd devgraph
+git clone https://github.com/Rakshith-jayanth-Eng/DevGraph.git
+cd DevGraph
 ```
 
 ### 2. Create a virtual environment
