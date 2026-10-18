@@ -61,7 +61,6 @@ devgraph/
 - A running Neo4j Aura database
 - A Google Gemini API key
 - Git
-
 ### 1. Clone the repository
 
 ```bash
